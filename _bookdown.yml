@@ -1,10 +1,10 @@
 book_filename: "edav-resource"
 chapter_name: ""
-repo: https://github.com/jtr13/EDAV
+repo: https://github.com/jtr13/EDAV2
 output_dir: _book
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
-edit: https://github.com/jtr13/EDAV/edit/master/%s
+edit: https://github.com/jtr13/EDAV2/edit/master/%s
 
 # chapter ordering
 rmd_files: [
